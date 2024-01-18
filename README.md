@@ -22,9 +22,6 @@ I enjoy bringing a ideas to life and learning new technologies. :sunglasses:
   <a href="https://www.linkedin.com/in/reza-dehghan-18a238201">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://instagram.com/rezadd7?igshid=ZDc4ODBmNjlmNQ==">
-    <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  </a>
   <a href="rezadd7@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
   </a>
