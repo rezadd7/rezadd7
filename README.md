@@ -1,7 +1,7 @@
 # Hi There :wave:
 A few things about me
 
-I am frontend web developer doing all things creative to make the web a more unique and awesome place. :heart_eyes:
+I am working in the field of front-end programming and Devops. :heart_eyes:
 
 Coffee, Football, gym and music are my happy places. :smiley:
 
@@ -9,7 +9,9 @@ I enjoy bringing a ideas to life and learning new technologies. :sunglasses:
 
 
 # LANGUAGES & TOOLS 
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,redux,tailwind,github)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,tailwind,github)](https://skills.thijs.gg) </br>
+[![My Skills](https://skills.thijs.gg/icons?i=linux,docker,ansible,kubernetes,cloud)](https://skills.thijs.gg) 
+
 
   
 
