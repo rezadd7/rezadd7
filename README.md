@@ -9,15 +9,10 @@ I enjoy bringing a ideas to life and learning new technologies. :sunglasses:
 
 
 # LANGUAGES & TOOLS 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,tailwind,github)](https://skills.thijs.gg) </br>
-[![My Skills](https://skills.thijs.gg/icons?i=linux,docker,ansible,kubernetes,cloud)](https://skills.thijs.gg) 
+[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,tailwind,github,nextjs)](https://skills.thijs.gg) </br>
+[![My Skills](https://skills.thijs.gg/icons?i=linux,docker,ansible,kubernetes)](https://skills.thijs.gg) 
 
 
-  
-
-
-# CURRENTLY LEARNING :books:
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs)](https://skills.thijs.gg)
 
 # Contact Me
 <div id="badges">
