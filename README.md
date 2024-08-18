@@ -8,9 +8,8 @@ Coffee, Football, gym and music are my happy places. :smiley:
 I enjoy bringing a ideas to life and learning new technologies. :sunglasses:
 
 
-# LANGUAGES & TOOLS 
-[![My Skills](https://skills.thijs.gg/icons?i=js,react,redux,tailwind,github,nextjs)](https://skills.thijs.gg) </br>
-[![My Skills](https://skills.thijs.gg/icons?i=linux,docker,ansible,kubernetes)](https://skills.thijs.gg) 
+# Skills 
+![My Skills](https://skillicons.dev/icons?i=linux,docker,kubernetes,elasticsearch,gitlab,grafana,prometheus,)
 
 
 
