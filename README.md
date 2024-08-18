@@ -1,7 +1,7 @@
 # Hi There :wave:
 A few things about me
 
-I am working in the field of front-end programming and Devops. :heart_eyes:
+I am working in the field of Devops. :heart_eyes:
 
 Coffee, Football, gym and music are my happy places. :smiley:
 
